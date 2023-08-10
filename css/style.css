@@ -9125,6 +9125,14 @@ a {
   letter-spacing: .2rem;
   font-weight: bold; }
 
+.newSubHeading {
+  color: #eb1c24;
+  text-transform: uppercase;
+  letter-spacing: .2rem;
+  font-weight: bold; 
+  font-size: 45px;
+}
+
 .more {
   padding: 5px 15px;
   font-size: 10px;
@@ -9460,7 +9468,7 @@ a {
 /* The typewriter cursor effect */
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: orange; }
+  50% { border-color: red; }
 }
 
 /* End of typewriter */
